@@ -18,11 +18,11 @@ O projeto foi desenvolvido para a loja fictícia The Little Taco Shop, que vende
 
 # Visual e design do projeto
 
-[![Home](examples/home-example.png)]
+![Home](examples/home-example.png)
 
-[![Hours](examples/hours-example.png)]
+![Hours](examples/hours-example.png)
 
-[![Contact](examples/contact-example.png)]
+![Contact](examples/contact-example.png)
 
 
 # Como executar os códigos
